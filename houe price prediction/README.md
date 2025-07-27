@@ -1,5 +1,5 @@
 
-# 🏠 Linear Regression on USA Housing Data
+# 🏠 Project: House Price Prediction
 
 ## 📌 Project Overview
 This project demonstrates how to build a **Linear Regression model** to predict housing prices based on real-world housing data. It covers data exploration, visualization, model building, evaluation, and interpretation of results.
